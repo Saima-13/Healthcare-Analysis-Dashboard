@@ -71,6 +71,9 @@ Patient distribution is nearly balanced across genders.
 ✔ Faster decision-making through interactive analytics
 ✔ Improved cost management and operational efficiency
 
+📷 Screenshot-
+https://github.com/Saima-13/Healthcare-Analysis-Dashboard/blob/main/Healthcare%20analysis%20dashboard.gif
+
 📧 Author
 
 Saima Naseem
