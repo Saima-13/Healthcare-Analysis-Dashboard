@@ -72,7 +72,7 @@ Patient distribution is nearly balanced across genders.
 ✔ Improved cost management and operational efficiency
 
 📷 Screenshot-
-![image alt]https://github.com/Saima-13/Healthcare-Analysis-Dashboard/blob/d488d8be8fa5711bd1c979b39ba225ba83ef741d/Healthcare%20analysis%20dashboard.gif
+![image alt](https://github.com/Saima-13/Healthcare-Analysis-Dashboard/blob/d488d8be8fa5711bd1c979b39ba225ba83ef741d/Healthcare%20analysis%20dashboard.gif)
 
 📧 Author
 Saima Naseem--
